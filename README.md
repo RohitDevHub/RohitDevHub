@@ -1,5 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohit Sai Kuchibotla 
-"Aspiring Full-Stack Developer | AI/ML Enthusiast | Ready to Tackle Real-World Tech Challenges" 
+Aspiring Full-Stack Developer | AI/ML Enthusiast | Ready to Tackle Real-World Tech Challenges
  🌍  I'm based in Hyderabad, India.
  ✉️  You can contact me at [Rohitsai.1824@gmail.com](mailto:Rohitsai.1824@gmail.com) 
  🧠  I'm learning -React.js , Angular, Node.js, Express, MongoDB, SQL, AWS, Azure, Machine Learning Algorithms, Cybersecurity Fundamentals. 
